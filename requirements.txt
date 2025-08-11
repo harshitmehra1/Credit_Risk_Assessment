@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# might need:
+xgboost      # For gradient boosting models
+lightgbm     # Faster alternative to xgboost
