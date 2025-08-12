@@ -212,3 +212,7 @@ data/raw/
 *.zip
 *.gz
 *.csv
+
+# Allow sample data
+!data/sample/
+!data/sample/*.csv
