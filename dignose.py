@@ -3,8 +3,8 @@ import csv
 from pathlib import Path
 
 FILES = [
-    Path("data/raw/accepted_cleaned.csv"),
-    Path("data/raw/rejected_cleaned.csv"),
+    Path("data/Original/cleaned/accepted_cleaned.csv"),
+    Path("data/Original/cleaned/rejected_cleaned.csv"),
 ]
 
 SAMPLE_SHOW = 10  # how many bad-line samples to print

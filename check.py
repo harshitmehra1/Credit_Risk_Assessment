@@ -3,7 +3,7 @@ from pathlib import Path
 
 # ==== CONFIG ====
 DATA_DIRS = [
-    Path("data/raw"),     # for original cleaned files
+    Path("data/Original/cleaned"),     # for original cleaned files
     Path("data/sample"),  # for sample files
 ]
 
